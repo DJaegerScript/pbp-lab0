@@ -5,3 +5,5 @@ NPM : 1006123456
 Kelas : Z
 
 Hobi: Tidur
+
+Makanan Fav: Nasi
